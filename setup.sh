@@ -30,6 +30,5 @@ proot-distro login ubuntu -- bash -c "
     echo 'Libraries installed' > libraries_installed.txt
 
     echo '✅ CÀI ĐẶT THÀNH CÔNG!'
-    echo '👉 Chạy tool bằng lệnh: ( proot-distro login ubuntu -- bash -c "cd /sdcard/download/toolhb && python3 setup.py" )'
-"
+    echo '👉 Chạy tool bằng lệnh: (proot-distro login ubuntu -- bash -c "cd /sdcard/download/toolhb && python3 att.py")'
 "
